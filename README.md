@@ -33,4 +33,4 @@ After development, I version-controlled the project using Git and hosted the cod
 
 Overall, Task 3 was an excellent opportunity to strengthen my front-end development skills, apply creative design principles, and build a meaningful project that I can include in my resume and share with potential employers or collaborators.
 
-#OUTPUT:
+#OUTPUT:![Image](https://github.com/user-attachments/assets/a321ef1d-5124-4c6d-bf88-cb0b608ae6ed)
